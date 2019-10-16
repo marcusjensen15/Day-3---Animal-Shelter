@@ -1,0 +1,47 @@
+.Perez{
+border: 3px solid orange;
+margin-top: 10px;
+margin-bottom: 10px;
+background-color: yellow;
+float:left;
+}
+
+.Bruce{
+border: 3px solid grey;
+margin-top: 10px;
+margin-bottom: 10px;
+background-color:#D3D3D3;
+float:left;
+}
+
+.Peter{
+border: 3px solid red;
+margin-top: 10px;
+margin-bottom: 10px;
+background-color: orange;
+float:left;
+}
+
+.Perez img {
+
+  height: 300px;
+  width: 300px;
+}
+
+.Bruce img {
+
+  height: 300px;
+  width: 300px;
+}
+
+.Peter img {
+
+  height: 300px;
+  width: 300px;
+}
+
+* {
+
+background-color: pink;
+
+}
