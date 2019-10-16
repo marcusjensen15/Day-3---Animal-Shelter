@@ -45,3 +45,16 @@ float:left;
 background-color: pink;
 
 }
+
+@media screen and (max-width: 1068px) and (min-width: 800px) {
+  body {
+    background-color: black;
+    color: white;
+  }
+}
+
+@media screen and (max-width: 780px) {
+  body {
+    background-color: teal;
+  }
+}
